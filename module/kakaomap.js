@@ -113,7 +113,7 @@ export const kakaoMap = () => {
     if (!searchValue) return;
     // 눌린 키가 Enter(키코드 13)인 경우 resultSearch() 함수 호출
     if (event.keyCode === 13) {
-      resultSearch();
+      resultSearch(map);
     }
   });
 
