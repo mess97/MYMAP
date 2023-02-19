@@ -197,7 +197,7 @@ z-index: 90;
   outline: none;
   border: none;
   line-height: 1.15;
-  box-shadow: 0px 10px 20px -10px;
+  box-shadow: 0px 10px 20px -10px #242424;
 }
 
 .search-bar{
@@ -207,7 +207,7 @@ z-index: 90;
 .search-btn{
   cursor: pointer;
   padding: 10px 5px;
-  border-radius: 0px 5px 5px 0px ;
+  border-radius: 0px 5px 5px 0px #242424 ;
   background-color: #242424;
   color: #e0e0e0;
   width: 45px;
