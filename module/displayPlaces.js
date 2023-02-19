@@ -3,7 +3,7 @@ import { get } from "../util/getDOM.js";
 const ResultContainer = get(".result-container");
 const ResultBox = get(".result-box");
 const resultClose = get(".result-close");
-const imageSrc = "assets/pngegg.png",
+const imageSrc = "../assets/pngegg.png",
   // 마커이미지의 주소입니다
   imageSize = new kakao.maps.Size(50, 50),
   // 마커이미지의 크기입니다

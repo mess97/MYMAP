@@ -227,14 +227,14 @@ opacity: 0.9;
 
 .my-place{
   cursor: pointer;
-  margin: 40px;
+  margin:40px 15px;
   padding: 10px 15px;
   box-shadow: 0px 10px 20px -10px #242424;
   background-color: #242424;
   border: 0px;
   border-radius: 10px;
   color: white;
-  z-index: 100;
+  z-index: 90;
   position: fixed;
   bottom: 0;
  right: 0;
