@@ -94,13 +94,13 @@ transform: 1s;
   .place-category{
     display: flex;
     
- 
+    flex-wrap: wrap;
 
   }
   .category-item{
     font-size: 10px;
     padding: 4px 10px;
-    margin-right: 5px;
+    margin: 0px 6px 4px 0px;
     color: #f5f5f5;
     background-color:#242424 ;
     border-radius: 50px;
