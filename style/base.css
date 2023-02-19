@@ -1,0 +1,42 @@
+::-webkit-scrollbar {
+    width: 2px;
+    height: 2px;
+    }
+   
+  
+    
+  
+      ::-webkit-scrollbar-thumb {
+  
+        border-radius: 10px;
+        background: #242424;
+      
+        border: 1px solid transparent;
+        }
+  
+        ::-webkit-scrollbar-thumb:hover {
+          background: #242424;
+          }
+  
+
+
+
+body{
+    margin: 0px;
+    background-color: #e0e0e0;
+    overflow: hidden;
+}
+h1{
+    margin: 0px;
+}
+h2{
+    margin: 0px;
+}
+ul{
+    margin: 0px;
+    padding: 0px;
+}
+li{
+    list-style: none;
+
+}
